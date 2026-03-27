@@ -16,5 +16,10 @@
 3.  Open `index.html` in any modern web browser.
 4.  *Optional:* If using VS Code, use the "Live Server" extension for the best experience.
 
+or just 
+
+for task part A currency converter click on https://chero8770.github.io/currency-converter/
+for task part B number guessing game click on https://chero8770.github.io/number-guessing-game-/
+
 ---
 
